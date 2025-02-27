@@ -1,0 +1,418 @@
+<doc id="55377027" title="Template:Dorcadiini-stub">
+
+</doc>
+
+<doc id="44375979" title="Corestheta">
+Corestheta is a genus of longhorn beetles of the subfamily Lamiinae, containing the following species:
+
+Corestheta alternata Carter, 1929
+Corestheta elongata (Broun, 1883)
+Corestheta insularis Pascoe, 1875
+Corestheta minima Breuning, 1958
+</doc>
+
+<doc id="50537724" title="Corestheta alternata">
+Corestheta alternata is a species of beetle in the family Cerambycidae. It was described by Carter in 1929. It is known from Australia.
+</doc>
+
+<doc id="50537731" title="Corestheta elongata">
+Corestheta elongata is a species of beetle in the family Cerambycidae. It was described by Broun in 1883, originally under the genus Somatidia. It is known from New Zealand.
+</doc>
+
+<doc id="50537736" title="Corestheta insularis">
+Corestheta insularis is a species of beetle in the family Cerambycidae. It was described by Pascoe in 1875. It is known from Australia.
+</doc>
+
+<doc id="50537741" title="Corestheta minima">
+Corestheta minima is a species of beetle in the family Cerambycidae. It was described by Stephan von Breuning in 1958. It is known from Australia.
+</doc>
+
+<doc id="44015303" title="Dorcadiini">
+Dorcadiini is a tribe of longhorn beetles of the subfamily Lamiinae. It was described by Pierre André Latreille in 1825.
+
+
+</doc>
+
+<doc id="50682610" title="Dorcadion abakumovi">
+Dorcadion abakumovi is a species of beetle in the family Cerambycidae. It was described by James Thomson in 1864.
+</doc>
+
+<doc id="50537763" title="Dorcadion absinthium">
+Dorcadion absinthium is a species of beetle in the family Cerambycidae. It was described by Plavilstshikov in 1937. It is known from Kazakhstan.
+</doc>
+
+<doc id="50674764" title="Dorcadion abstersum">
+Dorcadion abstersum is a species of beetle in the family Cerambycidae. It was described by Holzschuh in 1982. It is known from Turkey.
+</doc>
+
+<doc id="50674766" title="Dorcadion accola">
+Dorcadion accola is a species of beetle in the family Cerambycidae. It was described by Heyden in 1894. It is known from Turkey.
+</doc>
+
+<doc id="50553704" title="Dorcadion acutispinum">
+Dorcadion acutispinum is a species of beetle in the family Cerambycidae. It was described by Victor Motschulsky in 1860. It is known from Kazakhstan and China.
+</doc>
+
+<doc id="50674540" title="Dorcadion aethiops">
+Dorcadion aethiops is a species of beetle in the family Cerambycidae. It was described by Scopoli in 1763, originally under the genus Cerambyx. It is known from the Czech Republic, Albania, Greece, Bulgaria, Croatia, Hungary, Slovakia, North Macedonia, Romania, Austria, Turkey, Serbia, and Ukraine.
+</doc>
+
+<doc id="50674771" title="Dorcadion afflictum">
+Dorcadion afflictum is a species of beetle in the family Cerambycidae. It was described by Pesarini and Sabbadini in 1998. It is known from Turkey.
+</doc>
+
+<doc id="50674782" title="Dorcadion akpinarense">
+Dorcadion akpinarense is a species of beetle in the family Cerambycidae. It was described by Bernhauer and Peks in 2010.
+</doc>
+
+<doc id="50545914" title="Dorcadion alakoliense">
+Dorcadion alakoliense is a species of beetle in the family Cerambycidae. It was described by Mikhail Leontievich Danilevsky in 1988. It is known from Kazakhstan.
+</doc>
+
+<doc id="50674785" title="Dorcadion albanicum">
+Dorcadion albanicum is a species of beetle in the family Cerambycidae. It was described by Heyrovsky in 1934. It is known from Albania.
+</doc>
+
+<doc id="50674786" title="Dorcadion albolineatum">
+Dorcadion albolineatum is a species of beetle in the family Cerambycidae. It was described by Küster in 1847.
+</doc>
+
+<doc id="50537983" title="Dorcadion albonotatum">
+Dorcadion albonotatum is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1895.
+</doc>
+
+<doc id="50537882" title="Dorcadion alexandris">
+Dorcadion alexandris is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1900.
+</doc>
+
+<doc id="50546175" title="Dorcadion amanense">
+Dorcadion amanense is a species of beetle in the family Cerambycidae. It was described by Breuning in 1943.
+
+
+</doc>
+
+<doc id="50682945" title="Dorcadion amorii">
+Dorcadion amorii is a species of beetle in the family Cerambycidae. It was described by Marseuil in 1856. It is known from Spain.
+
+
+</doc>
+
+<doc id="50538001" title="Dorcadion anatolicum">
+Dorcadion anatolicum is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1900. It is known from Turkey. It contains the varietas Dorcadion anatolicum var. subuniforme.
+</doc>
+
+<doc id="50546003" title="Dorcadion angorense">
+Dorcadion angorense is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1897. It is known from Turkey.
+</doc>
+
+<doc id="50546176" title="Dorcadion apicerufum">
+Dorcadion apicerufum is a species of beetle in the family Cerambycidae. It was described by Breuning in 1943.
+</doc>
+
+<doc id="50545918" title="Dorcadion archalense">
+Dorcadion archalense is a species of beetle in the family Cerambycidae. It was described by Mikhail Leontievich Danilevsky in 1996.
+</doc>
+
+<doc id="50674788" title="Dorcadion arcivagum">
+Dorcadion arcivagum is a species of beetle in the family Cerambycidae. It was described by Thomson in 1867. It is known from Turkey.
+</doc>
+
+<doc id="50546177" title="Dorcadion ardahense">
+Dorcadion ardahense is a species of beetle in the family Cerambycidae. It was described by Breuning in 1975.
+</doc>
+
+<doc id="50674791" title="Dorcadion arenarioides">
+Dorcadion arenarioides is a species of beetle in the family Cerambycidae. It was described by Rabaron in 1979. It is known from Greece.
+</doc>
+
+<doc id="50674805" title="Dorcadion arenarium">
+Dorcadion arenarium is a species of beetle in the family Cerambycidae. It was described by Scopoli in 1763. It is known from Italy, Albania, Austria, France, Croatia, Bosnia and Herzegovina, Slovenia, and Montenegro.
+</doc>
+
+<doc id="50674617" title="Dorcadion ariannae">
+Dorcadion ariannae is a species of beetle in the family Cerambycidae. It was described by Pesarini and Sabbadini in 2008. It is known from Greece.
+</doc>
+
+<doc id="50538185" title="Dorcadion arietinum">
+Dorcadion arietinum is a species of beetle in the family Cerambycidae. It was described by Jakovlev in 1897.
+</doc>
+
+<doc id="50674808" title="Dorcadion auratum">
+Dorcadion auratum is a species of beetle in the family Cerambycidae. It was described by Henri Tournier in 1872. It is known from the Caucasus Mountains.
+</doc>
+
+<doc id="50674810" title="Dorcadion axillare">
+Dorcadion axillare is a species of beetle in the family Cerambycidae. It was described by Küster in 1847. It is known from Bulgaria.
+</doc>
+
+<doc id="50553765" title="Dorcadion balchashense">
+Dorcadion balchashense is a species of beetle in the family Cerambycidae. It was described by Suvorov in 1911.
+
+
+</doc>
+
+<doc id="50674541" title="Dorcadion balthasari">
+Dorcadion balthasari is a species of beetle in the family Cerambycidae. It was described by Heyrovský in 1962. It is known from Albania.
+</doc>
+
+<doc id="50674813" title="Dorcadion bangi">
+Dorcadion bangi is a species of beetle in the family Cerambycidae. It was described by Heyden in 1894.
+</doc>
+
+<doc id="50537836" title="Dorcadion banjkovskyi">
+Dorcadion banjkovskyi is a species of beetle in the family Cerambycidae. It was described by Plavilstshikov in 1958.
+</doc>
+
+<doc id="50553837" title="Dorcadion beckeri">
+Dorcadion beckeri is a species of beetle in the family Cerambycidae. It was described by Kraatz in 1873.
+</doc>
+
+<doc id="50674814" title="Dorcadion bernhauerorum">
+Dorcadion bernhauerorum is a species of beetle in the family Cerambycidae. It was described by Peks in 2010.
+</doc>
+
+<doc id="50546188" title="Dorcadion berytense">
+Dorcadion berytense is a species of beetle in the family Cerambycidae. It was described by Breuning in 1964.
+</doc>
+
+<doc id="50553839" title="Dorcadion biforme">
+Dorcadion biforme is a species of beetle in the family Cerambycidae. It was described by Kraatz in 1873. It is known from Iran.
+</doc>
+
+<doc id="50538242" title="Dorcadion bisignatum">
+Dorcadion bisignatum is a species of beetle in the family Cerambycidae. It was described by Jakovlev in 1899. It is known from Turkey.
+</doc>
+
+<doc id="50538004" title="Dorcadion bistriatum">
+Dorcadion bistriatum is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1898. It is known from the Caucasus.
+</doc>
+
+<doc id="50674837" title="Dorcadion bithyniense">
+Dorcadion bithyniense is a species of beetle in the family Cerambycidae. It was described by Chevrolat in 1856. It is known from Turkey.
+</doc>
+
+<doc id="50674841" title="Dorcadion blanchardi">
+Dorcadion blanchardi is a species of beetle in the family Cerambycidae. It was described by Mulsant and Rey in 1863. It is known from Iran and Turkey.
+</doc>
+
+<doc id="50674847" title="Dorcadion blandulus">
+Dorcadion blandulus is a species of beetle in the family Cerambycidae. It was described by Holzschuh in 1977. It is known from Turkey.
+</doc>
+
+<doc id="50674850" title="Dorcadion bodemeyeri">
+Dorcadion bodemeyeri is a species of beetle in the family Cerambycidae. It was described by K. Daniel in 1901. It is known from Turkey.
+</doc>
+
+<doc id="50546189" title="Dorcadion boluense">
+Dorcadion boluense is a species of beetle in the family Cerambycidae. It was described by Stephan von Breuning in 1962.
+</doc>
+
+<doc id="50674666" title="Dorcadion borisi">
+Dorcadion borisi is a species of beetle in the family Cerambycidae. It was described by Heyrovsky in 1931. It is known from Macedonia.
+</doc>
+
+<doc id="50674574" title="Dorcadion boszdaghense">
+Dorcadion boszdaghense is a species of beetle in the family Cerambycidae. It was described by Fairmaire in 1866. It is known from Turkey.
+</doc>
+
+<doc id="50538006" title="Dorcadion boucardi">
+Dorcadion boucardi is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1942. It is known from Syria.
+</doc>
+
+<doc id="50546193" title="Dorcadion bouilloni">
+Dorcadion bouilloni is a species of beetle in the family Cerambycidae. It was described by Breuning and Ruspoli and 1975.
+</doc>
+
+<doc id="50546198" title="Dorcadion brauni">
+Dorcadion brauni is a species of beetle in the family Cerambycidae. It was described by Breuning in 1979.
+</doc>
+
+<doc id="50546200" title="Dorcadion bremeri">
+Dorcadion bremeri is a species of beetle in the family Cerambycidae. It was described by Breuning in 1981.
+</doc>
+
+<doc id="50545985" title="Dorcadion brenskei">
+Dorcadion brenskei is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1883. It is known from Greece.
+</doc>
+
+<doc id="50553840" title="Dorcadion brunneicolle">
+Dorcadion brunneicolle is a species of beetle in the family Cerambycidae. It was described by Kraatz in 1873. It is known from Iran and Iraq.
+</doc>
+
+<doc id="50546212" title="Dorcadion brunoi">
+Dorcadion brunoi is a species of beetle in the family Cerambycidae. It was described by Breuning in 1964.
+</doc>
+
+<doc id="50546213" title="Dorcadion bulgharmaadense">
+Dorcadion bulgharmaadense is a species of beetle in the family Cerambycidae. It was described by Breuning in 1946.
+</doc>
+
+<doc id="50674747" title="Dorcadion buresi">
+Dorcadion buresi is a species of beetle in the family Cerambycidae. It was described by Štěrba in 1922. It is known from Greece.
+</doc>
+
+<doc id="50674853" title="Dorcadion cachinno">
+Dorcadion cachinno is a species of beetle in the family Cerambycidae. It was described by Thomson in 1868.
+</doc>
+
+<doc id="50546214" title="Dorcadion caprai">
+Dorcadion caprai is a species of beetle in the family Cerambycidae. It was described by Breuning in 1951.
+</doc>
+
+<doc id="50674543" title="Dorcadion carinatum">
+Dorcadion carinatum is a species of beetle in the family Cerambycidae. It was described by Peter Simon Pallas in 1771, originally under the genus Cerambyx. It is known from Russia, Azerbaijan, Kazakhstan, Georgia, and Ukraine.
+</doc>
+
+<doc id="50538003" title="Dorcadion carinipenne">
+Dorcadion carinipenne is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1900.
+</doc>
+
+<doc id="50546217" title="Dorcadion carolisturanii">
+Dorcadion carolisturanii is a species of beetle in the family Cerambycidae. It was described by Breuning in 1971.
+</doc>
+
+<doc id="50546158" title="Dorcadion caspiense">
+Dorcadion caspiense is a species of beetle in the family Cerambycidae. It was described by Breuning in 1956.
+</doc>
+
+<doc id="50538245" title="Dorcadion cephalotes">
+Dorcadion cephalotes is a species of beetle in the family Cerambycidae. It was described by Jakovlev in 1890.
+</doc>
+
+<doc id="50674557" title="Dorcadion cervae">
+Dorcadion cervae is a species of beetle in the family Cerambycidae. It was described by Janos Frivaldszky in 1892. It is known from Hungary and Slovakia, although it is considered to be extinct in the latter region. It reaches a length of 14 to 16 mm (0.55 to 0.63 in).
+</doc>
+
+<doc id="50546218" title="Dorcadion chopardi">
+Dorcadion chopardi is a species of beetle in the family Cerambycidae. It was described by Breuning in 1948.
+</doc>
+
+<doc id="50546228" title="Dorcadion chrysochroum">
+Dorcadion chrysochroum is a species of beetle in the family Cerambycidae. It was described by Breuning in 1943.
+</doc>
+
+<doc id="50674867" title="Dorcadion cinctellum">
+Dorcadion cinctellum is a species of beetle in the family Cerambycidae. It was described by Fairmaire in 1866. It is found in Turkey and Syria.
+</doc>
+
+<doc id="50674702" title="Dorcadion cinerarium">
+Dorcadion cinerarium is a species of beetle in the family Cerambycidae. It was described by Johan Christian Fabricius in 1787, originally under the genus Lamia. It is known from Ukraine, Azerbaijan, and Russia.
+</doc>
+
+<doc id="50553745" title="Dorcadion cineriferum">
+Dorcadion cineriferum is a species of beetle in the family Cerambycidae. It was described by Suvorov in 1909. It is known from the Caucasus.
+</doc>
+
+<doc id="50546126" title="Dorcadion cingulatoides">
+Dorcadion cingulatoides is a species of beetle in the family Cerambycidae. It was described by Breuning in 1946.
+</doc>
+
+<doc id="50545944" title="Dorcadion cingulatum">
+Dorcadion cingulatum is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1884. It is known from Iran and Turkey.
+</doc>
+
+<doc id="34500335" title="Dorcadion ciscaucasicum">
+Dorcadion ciscaucasicum is a species of longhorn beetle in the subfamily Lamiinae.
+</doc>
+
+<doc id="76445892" title="Dorcadion ciscaucasicum abramovi">
+Dorcadion ciscaucasicum abramovi is a subspecies of beetle in the family Cerambycidae. It was described by Lazarev in 2009. It is known from Russia.
+
+
+</doc>
+
+<doc id="50546128" title="Dorcadion coiffaiti">
+Dorcadion coiffaiti is a species of beetle in the family Cerambycidae. It was described by Breuning in 1962.
+</doc>
+
+<doc id="50545946" title="Dorcadion complanatum">
+Dorcadion complanatum is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1884. It is known from Turkey.
+</doc>
+
+<doc id="50674748" title="Dorcadion condensatum">
+Dorcadion condensatum is a species of beetle in the family Cerambycidae. It was described by Küster in 1852. It is known from Turkey and Bulgaria.
+</doc>
+
+<doc id="50674577" title="Dorcadion confluens">
+Dorcadion confluens is a species of beetle in the family Cerambycidae. It was described by Fairmaire in 1866. It is known from Turkey.
+</doc>
+
+<doc id="50546005" title="Dorcadion corcyricum">
+Dorcadion corcyricum is a species of longhorn beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1883. It is found in Greece.
+
+
+</doc>
+
+<doc id="50674731" title="Dorcadion crassicolle">
+Dorcadion crassicolle is a species of beetle in the family Cerambycidae. It was described by Pesarini and Sabbadini in 2007. It is known from Greece.
+</doc>
+
+<doc id="50682916" title="Dorcadion crassipes">
+Dorcadion crassipes is a species of beetle in the family Cerambycidae. It was described Ballion by 1878.
+</doc>
+
+<doc id="50674872" title="Dorcadion culminicola">
+Dorcadion culminicola is a species of beetle in the family Cerambycidae. It was described by Thomson in 1868.
+</doc>
+
+<doc id="50545863" title="Dorcadion czegodaevi">
+Dorcadion czegodaevi is a species of beetle in the family Cerambycidae. It was described by Mikhail Leontievich Danilevsky in 1992. It is known from the Caucasus.
+</doc>
+
+<doc id="50546231" title="Dorcadion czipkai">
+Dorcadion czipkai is a species of beetle in the family Cerambycidae. It was described by Breuning in 1973.
+</doc>
+
+<doc id="50545856" title="Dorcadion danczenkoi">
+Dorcadion danczenkoi is a species of beetle in the family Cerambycidae. It was described by Mikhail Leontievich Danilevsky in 1996. It is known from Afghanistan, Azerbaijan, and Iran.
+</doc>
+
+<doc id="50674537" title="Dorcadion danilevskyi">
+Dorcadion danilevskyi is a species of beetle in the family Cerambycidae. It was described by Dolin and Ovtschinikov in 1999. It is known from Central Asia.
+</doc>
+
+<doc id="50553747" title="Dorcadion daratshitshagi">
+Dorcadion daratshitshagi is a species of beetle in the family Cerambycidae. It was described by Suvorov in 1915. It is known from Armenia.
+</doc>
+
+<doc id="50545795" title="Dorcadion darjae">
+Dorcadion darjae is a species of beetle in the family Cerambycidae. It was described by Mikhail Leontievich Danilevsky in 2001.
+The species can be traced to Central Asia.
+</doc>
+
+<doc id="50674874" title="Dorcadion decipiens">
+Dorcadion decipiens is a species of beetle in the family Cerambycidae. It was described by Ernst Friedrich Germar in 1824. It is known from Romania, Hungary, Serbia, Slovakia (from which it is considered to be extinct), Moldova, and Ukraine. It reaches a length of 12 to 14 mm (0.47 to 0.55 in).
+</doc>
+
+<doc id="50553749" title="Dorcadion demokidovi">
+Dorcadion demokidovi is a species of beetle in the family Cerambycidae. It was described by Suvorov in 1915. It is known from the Caucasus.
+</doc>
+
+<doc id="50546006" title="Dorcadion deyrollei">
+Dorcadion deyrollei is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1883.
+</doc>
+
+<doc id="50553708" title="Dorcadion dimidiatum">
+Dorcadion dimidiatum is a species of beetle in the family Cerambycidae. It was described by Victor Motschulsky in 1838. It is found in Iran, Turkey and Armenia.
+</doc>
+
+<doc id="50537936" title="Dorcadion discodivisum">
+Dorcadion discodivisum is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1939.
+</doc>
+
+<doc id="50538011" title="Dorcadion discomaculatum">
+Dorcadion discomaculatum is a species of beetle in the family Cerambycidae. It was described by Maurice Pic in 1905. It is known from Iran.
+</doc>
+
+<doc id="50674580" title="Dorcadion divisum">
+Dorcadion divisum is a species of beetle in the family Cerambycidae. It was described by Ernst Friedrich Germar in 1839. It is known from Greece and Turkey.
+</doc>
+
+<doc id="50546014" title="Dorcadion dokhtouroffi">
+Dorcadion dokhtouroffi is a species of beetle in the family Cerambycidae. It was described by Ludwig Ganglbauer in 1886. It is known from the Caucasus.
+</doc>
+
+<doc id="50546234" title="Dorcadion drusoides">
+Dorcadion drusoides is a species of beetle in the family Cerambycidae. It was described by Breuning in 1962.
+</doc>
+

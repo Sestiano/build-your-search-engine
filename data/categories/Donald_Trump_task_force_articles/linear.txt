@@ -1,0 +1,445 @@
+<doc id="78920905" title="Talk:$Trump">
+
+</doc>
+
+<doc id="45153792" title="Talk:115th United States Congress">
+
+</doc>
+
+<doc id="52766376" title="Talk:116th United States Congress">
+
+</doc>
+
+<doc id="61380548" title="Talk:117th United States Congress">
+
+</doc>
+
+<doc id="72791593" title="Talk:119th United States Congress">
+
+</doc>
+
+<doc id="73646276" title="Talk:1983 New Jersey Generals season">
+
+</doc>
+
+<doc id="37643837" title="Talk:2016 Republican National Convention">
+
+</doc>
+
+<doc id="45083520" title="Talk:2016 Republican Party presidential debates and forums">
+
+</doc>
+
+<doc id="37644021" title="Talk:2016 Republican Party presidential primaries">
+Hello fellow Wikipedians,
+I have just modified one external link on Republican Party presidential primaries, 2016. Please take a moment to review my edit. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit this simple FaQ for additional information. I made the following changes:
+
+Added archive https://web.archive.org/web/20160502101304/http://www.msn.com/en-us/news/politics/indiana-governor-to-endorse-cruz-for-president-media/ar-BBsqgZ9?ocid=ansmsnnews11 to http://www.msn.com/en-us/news/politics/indiana-governor-to-endorse-cruz-for-president-media/ar-BBsqgZ9?ocid=ansmsnnews11
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+This message was posted before February 2018. After February 2018, "External links modified" talk page sections are no longer generated or monitored by InternetArchiveBot. No special action is required regarding these talk page notices, other than regular verification using the archive tool instructions below. Editors have permission to delete these "External links modified" talk page sections if they want to de-clutter talk pages, but see the RfC before doing mass systematic removals. This message is updated dynamically through the template {{source check}} (last update: 5 June 2024).
+
+If you have discovered URLs which were erroneously considered dead by the bot, you can report them with this tool.
+If you found an error with any archives or the URLs themselves, you can fix them with this tool.
+Cheers.—InternetArchiveBot (Report bug) 00:39, 21 November 2017 (UTC)
+
+This article says Ted Cruz won the support of 551 delegates. Politico and the Wall Street Journal say he won 559 delegates, and the RNC says he won 544. Perplexing. Does anyone have a clue which one is correct? SunCrow (talk) 03:11, 19 November 2018 (UTC)
+
+The article includes a good deal of unsourced material and has been tagged accordingly. SunCrow (talk) 05:33, 17 May 2019 (UTC)
+
+SunCrow I undid your revert because the citations discussing about the GOP's procedures/processes are there: 15, 195, and possibly some others. I also think that we should not remove a large section of a prominent Wikipedia page that has probably been on there for over 2-3 years without a lot of reason to do so besides "remove unsourced". Surely the hundreds, if not thousands of editors prior to this incident agreed or did not find fault with the Processes section. Aviartm (talk) 05:51, 17 May 2019 (UTC)
+Aviartm, thank you for letting me know about your edit. I have tagged the "Process" section as needing more sources. Multiple paragraphs are completely unsourced. In your edit summary, you said that the sources for this material were listed in other places in the article. They should be added as inline citations here as well. (With respect, I disagree with you that unsourced material that has been in an article for a long time should not be removed without justification. Per WP:VERIFY, any unsourced material in a Wikipedia article can be challenged or removed. Whether or not other editors find fault with that unsourced material is beside the point.) SunCrow (talk) 07:10, 17 May 2019 (UTC)
+SunCrow Great! Thank you for adding the template to the section. I agree that the citations should be located where material is mentioned from it within an article. And I understand what you mean with your last point but something that descriptive, surely it is reputable and verifiable somewhere. And as mentioned, looking at the citations that I mentioned, it appears that some of the Processes are there, if not a majority or all. Aviartm (talk) 22:01, 17 May 2019 (UTC)
+
+Carson and Bush were added to the infobox here only recently, a few days ago. The only apparent reason for this sudden change relates to the 2020 Democratic Party presidential primaries talk page, where several people, including @Cookieo131: and @Shhhhwwww!!:, argued from Wiki-precedent that only candidates who won at least one contest or 5% of the popular vote were included in the infobox (here, just Trump, Cruz, Rubio, and Kasich). So, apparently to advance their argument than *any* candidate with a few delegates should be in a presidential primary infobox, some folks added two candidates who did not meet the 5%/win contest threshold here. I suggest that these two less-significant candidates be removed from the infobox and precedent restored until some uniform standard can be agreed upon.--Wikibojopayne (talk) 20:12, 31 March 2020 (UTC)
+
+I agree that they should be removed. The standard should be 5% popular vote, 5% of delegate, or winning any contest. Michelangelo1992 (talk) 15:19, 4 April 2020 (UTC)
+Funnily enough, the template for a presidential primary infobox actually uses the old 2016 primary box, the one with just four candidates. Agreed on the removal of Carson and Bush by the way. GrapevinePoly (talk) 02:36, 28 April 2020 (UTC)
+
+The close races section is flagrantly against MOS:COLOR and is inaccessible for colorblind readers, and for other readers as well. There is no need to use color in this way to convey the winners of each race. :3 F4U (talk) 17:04, 9 March 2023 (UTC)
+
+Agreed.  I added the winners.  --Spiffy sperry (talk) 17:41, 9 March 2023 (UTC)
+
+In the 2024 Democratic Party presidential primaries map, American Samoa is showed as won by Jason Palmer because he won the popular vote there, despite tying his delegate count with that of Joe Biden. Here, despite Donald Trump getting more votes than John Kasich, it is shown as a tie. Should one of either articles be fixed? IntervoidWiki (talk) 19:19, 12 June 2024 (UTC)
+
+No change is needed. The situations are very similar, as are the maps. Please note that there are two maps that are relevant here: the popular vote map and the delegate map. On the 2016 Republican page, Vermont is shown as a tie for delegates and an outright win based on popular vote. Same for the 2024 Democratic page. American Samoa is shown as a tie for delegates and a win based on popular vote. There are buttons in the infobox that will allow you to change the map which is shown. Michelangelo1992 (talk) 20:36, 12 June 2024 (UTC)
+Ah nevermind, it just starts off on different voting systems per page. No change needed. IntervoidWiki (talk) 15:37, 13 June 2024 (UTC)
+</doc>
+
+<doc id="48590487" title="Talk:2016 Republican Party vice presidential candidate selection">
+
+</doc>
+
+<doc id="46487410" title="Talk:2016 United States presidential debates">
+
+</doc>
+
+<doc id="21986912" title="Talk:2016 United States presidential election">
+
+</doc>
+
+<doc id="69304815" title="Talk:2017 United States Electoral College vote count">
+
+</doc>
+
+<doc id="59474039" title="Talk:2018–2019 United States federal government shutdown">
+
+</doc>
+
+<doc id="57694398" title="Talk:2020 Republican National Convention">
+
+</doc>
+
+<doc id="60313356" title="Talk:2020 United States presidential debates">
+
+</doc>
+
+<doc id="48410137" title="Talk:2020 United States presidential election">
+
+</doc>
+
+<doc id="69705806" title="Talk:2021 Conservative Political Action Conference">
+
+</doc>
+
+<doc id="66297941" title="Talk:2021 United States Electoral College vote count">
+
+</doc>
+
+<doc id="78224864" title="Talk:2024 Donald Trump rally at Madison Square Garden">
+
+</doc>
+
+<doc id="77873087" title="Talk:2024 Joe Biden–Donald Trump presidential debate">
+
+</doc>
+
+<doc id="63746393" title="Talk:2024 Republican National Convention">
+
+</doc>
+
+<doc id="73964032" title="Talk:2024 Republican Party presidential debates and forums">
+
+</doc>
+
+<doc id="65762179" title="Talk:2024 Republican Party presidential primaries">
+
+</doc>
+
+<doc id="76103654" title="Talk:2024 United States presidential debates">
+
+</doc>
+
+<doc id="51157715" title="Talk:2024 United States presidential election">
+
+</doc>
+
+<doc id="78646170" title="Talk:2025 Donald Trump speech to a joint session of Congress">
+
+</doc>
+
+<doc id="78781361" title="Talk:2025 Las Vegas Cybertruck explosion">
+
+</doc>
+
+<doc id="79235358" title="Talk:2025 Putin–Trump call">
+
+</doc>
+
+<doc id="78369421" title="Talk:2025 United States Electoral College vote count">
+
+</doc>
+
+<doc id="79040420" title="Talk:2025 United States federal government grant pause">
+
+</doc>
+
+<doc id="79107922" title="Talk:2025 United States protests against mass deportation">
+
+</doc>
+
+<doc id="79052799" title="Talk:2025 US federal deferred resignation program">
+
+</doc>
+
+<doc id="65349139" title="Talk:Abraham Accords">
+This page is subject to the extended confirmed restriction related to the Arab-Israeli conflict.
+</doc>
+
+<doc id="67742498" title="Category talk:Abraham Accords">
+
+</doc>
+
+<doc id="58445948" title="Talk:Active Measures (film)">
+
+</doc>
+
+<doc id="56417030" title="Talk:America (Cattelan)">
+
+</doc>
+
+<doc id="77363908" title="Talk:America PAC">
+
+</doc>
+
+<doc id="65091602" title="Talk:America's Great Divide">
+
+</doc>
+
+<doc id="78997760" title="Talk:American expansionism under Donald Trump">
+
+</doc>
+
+<doc id="54158072" title="Talk:American Horror Story: Cult">
+
+</doc>
+
+<doc id="65363787" title="Talk:Amy Coney Barrett Supreme Court nomination">
+
+</doc>
+
+<doc id="53134173" title="Talk:Michael Anton">
+
+</doc>
+
+<doc id="75441251" title="Talk:The Apprentice (2024 film)">
+
+</doc>
+
+<doc id="25081085" title="Talk:List of The Apprentice (American TV series) candidates">
+
+</doc>
+
+<doc id="9289481" title="Talk:The Apprentice (American TV series)">
+
+</doc>
+
+<doc id="2209114" title="Talk:The Apprentice: Martha Stewart">
+
+</doc>
+
+<doc id="62727413" title="Talk:Assassination of Qasem Soleimani">
+
+</doc>
+
+<doc id="77879241" title="Talk:Attempted assassination of Donald Trump in Florida">
+
+</doc>
+
+<doc id="65906746" title="Talk:Attempts to overturn the 2020 United States presidential election">
+
+</doc>
+
+<doc id="79039335" title="Talk:Mike Banks (law enforcement officer)">
+
+</doc>
+
+<doc id="41631754" title="Talk:Steve Bannon">
+
+</doc>
+
+<doc id="9898823" title="Talk:William Barr">
+
+</doc>
+
+<doc id="34011072" title="Talk:Tom Barrack">
+
+</doc>
+
+<doc id="75425303" title="Draft talk:Barron Trump">
+
+</doc>
+
+<doc id="6414693" title="Talk:Maryanne Trump Barry">
+
+</doc>
+
+<doc id="4585931" title="Talk:Bart to the Future">
+
+</doc>
+
+<doc id="39493105" title="Talk:Scott Bessent">
+
+</doc>
+
+<doc id="68396636" title="Talk:Best Sex I've Ever Had">
+
+</doc>
+
+<doc id="51607340" title="Talk:Bibliography of Donald Trump">
+
+</doc>
+
+<doc id="2372232" title="Talk:Joe Biden">
+
+</doc>
+
+<doc id="47462754" title="Talk:Dan Bishop">
+
+</doc>
+
+<doc id="44585478" title="Talk:Frank Bisignano">
+
+</doc>
+
+<doc id="79189640" title="Talk:James Blair (political advisor)">
+
+</doc>
+
+<doc id="4610199" title="Talk:Pam Bondi">
+
+</doc>
+
+<doc id="78493622" title="Talk:Massad Boulos">
+
+</doc>
+
+<doc id="64755494" title="Talk:Michael Boulos">
+
+</doc>
+
+<doc id="57866763" title="Talk:Brett Kavanaugh Supreme Court nomination">
+
+</doc>
+
+<doc id="49230994" title="Talk:Doug Burgum">
+
+</doc>
+
+<doc id="52245977" title="Talk:Business career of Donald Trump">
+
+</doc>
+
+<doc id="64446192" title="Category talk:Business career of Donald Trump">
+
+</doc>
+
+<doc id="52953664" title="Talk:Business projects of Donald Trump in Russia">
+
+</doc>
+
+<doc id="68202206" title="Talk:Dan Caine">
+
+</doc>
+
+<doc id="78563224" title="Talk:Caleb Vitello">
+
+</doc>
+
+<doc id="302824" title="Talk:Central Park jogger case">
+I've added Template:more citations needed and Template:primary sources to the article, since there are a few paragraphs with no references and the article heavily relies on the Ryan affirmation. The latter concern is, I think, less critical, but I want to flag it: The Ryan affirmation is cited roughly 40 times—by far it is the most-cited reference in the article. There are a couple paragraph that rely on it almost to exclusion of everything else—the vacatur section, in my estimation, is particularly too-reliant on the affirmation, since the affirmation is being cited as a source for its own contents—again, not an egregious issue, but I think secondary sources discussing the affirmation could likely be found.--Jerome Frank Disciple (talk) 16:28, 31 March 2023 (UTC)
+
+There appears to be a dispute over whether the main template should say "exonerated" or "vacated". I would argue:
+
+That nothing should mentioned in the "accused" section of the template—on that point I actually do feel relatively strongly. I can't find other examples where an outcome is paired with "Accused"—and doing so is putting the cart before the horse. I other cases, we don't say "(all found not guilty)" or "(all found guilty)" on comparable pages. The result of the case, including the ultimate vacatur, is discussed in the Verdict section.
+That "vacated" should be the term used. Here, I don't feel particularly strongly, but the technical legal term would be "vacated", and we have reliable sources describing the court as doing just that.
+--Jerome Frank Disciple (talk) 17:28, 7 April 2023 (UTC)
+
+Central Park accused Yusef Salaam is currently a candidate for NYC City Council and should get a new article of his own on this.  This fact is a public record.96.39.242.97 (talk) 01:29, 4 July 2023 (UTC)
+
+Even if it wasn't American Justice, l can still recall watching a show on this case before Reyes made his confession. Tnarrud3 (talk) 15:51, 22 January 2024 (UTC)
+
+I saw this appears in the article: "The Central Park events, which were attributed at the time to members of the large group of youths who attacked numerous persons in the park, including whites, blacks and browns and yellows." are "browns and yellows" really the terms wikipedia wants to use? Maapmaay (talk) 02:40, 11 September 2024 (UTC)
+
+I just now reverted that very recent edit.  I’m not aware that reliable sources use the word “yellow” as a noun. Anythingyouwant (talk) 03:20, 11 September 2024 (UTC)
+</doc>
+
+<doc id="78494666" title="Talk:Chad Chronister">
+
+</doc>
+
+<doc id="72249568" title="Talk:Lori Chavez-DeRemer">
+
+</doc>
+
+<doc id="72263821" title="Category talk:Children of Donald Trump">
+
+</doc>
+
+<doc id="65379354" title="Talk:The Choice 2020">
+
+</doc>
+
+<doc id="52775465" title="Talk:Jay Clayton (attorney)">
+
+</doc>
+
+<doc id="101556" title="Talk:Hillary Clinton">
+
+</doc>
+
+<doc id="320765" title="Talk:Roy Cohn">
+
+</doc>
+
+<doc id="79203285" title="Talk:Terry Cole (law enforcement official)">
+
+</doc>
+
+<doc id="37129195" title="Talk:Doug Collins (politician)">
+
+</doc>
+
+<doc id="6464428" title="Talk:Kellyanne Conway">
+
+</doc>
+
+<doc id="54186952" title="Talk:Covfefe">
+
+</doc>
+
+<doc id="79187574" title="Talk:Emory Cox">
+
+</doc>
+
+<doc id="48483980" title="Talk:Crippled America">
+
+</doc>
+
+<doc id="77351365" title="Talk:Thomas Matthew Crooks">
+
+</doc>
+
+<doc id="60651582" title="Talk:Crossfire Hurricane (FBI investigation)">
+
+</doc>
+
+<doc id="78941139" title="Talk:Sean Curran (Secret Service)">
+
+</doc>
+
+<doc id="48764509" title="Talk:A Dangerous Game (2014 film)">
+
+</doc>
+
+<doc id="3782115" title="Talk:Stormy Daniels">
+
+</doc>
+
+<doc id="70040882" title="Talk:Day of Rage: How Trump Supporters Took the U.S. Capitol">
+
+</doc>
+
+<doc id="78338033" title="Talk:Department of Government Efficiency">
+
+</doc>
+
+<doc id="79168850" title="Category talk:Department of Government Efficiency">
+
+</doc>
+
+<doc id="79168847" title="Category talk:Department of Government Efficiency people">
+
+</doc>
+
+<doc id="78314356" title="Talk:Deportation of illegal immigrants in the second presidency of Donald Trump">
+
+</doc>
+
+<doc id="59428339" title="Talk:Dermophis donaldtrumpi">
+
+</doc>
+
+<doc id="54005985" title="Talk:Dismissal of James Comey">
+
+</doc>
+

@@ -1,0 +1,517 @@
+<doc id="12424026" title="Festina affair">
+The Festina affair was a series of doping scandals within the sport of professional cycling that occurred during and after the 1998 Tour de France. The affair began when a large haul of doping products was found in a support car belonging to the Festina cycling team just before the start of the race. A resulting investigation revealed systematic doping involving many teams in the Tour de France. Hotels where teams were staying were raided and searched by police, confessions were made by several retired and current riders, and team personnel were arrested or detained. Several teams withdrew completely from the race.
+By December 2000, all nine Festina riders had confessed to using erythropoietin (EPO) and other substances during the 1998 Tour de France, and suspended sentences ranging from 5–12 months were handed out to Festina soigneur Willy Voet, Festina manager Bruno Roussel, La Française des Jeux soigneur Jef d'Hont, former Festina soigneur Jean Dalibot, and Festina communication officer Joel Chabiron. The two accused pharmacists, Éric Paranier and Christine Paranier, along with Team ONCE physician Nicolás Terrados, were only given fines, while the case against Festina doctor Eric Rijckaert was dropped because of his deteriorating health.
+</doc>
+
+<doc id="18285325" title="List of doping cases in cycling">
+The following is an incomplete list of doping cases and recurring accusations of doping in professional cycling, where doping means "use of physiological substances or abnormal method to obtain an artificial increase of performance." It is neither a list of shame nor a list of illegality, as the first laws were not passed until 1965 and their implementation is an ongoing developing process. Thus the list contains doping incidents, those who have tested positive for illegal performance-enhancing drugs, prohibited recreational drugs or have been suspended by a sports governing body for failure to submit to mandatory drug testing. It also contains and clarifies cases where subsequent evidence and explanation has shown the parties to be innotrcent of illegal practice.
+In 1963, the Council of Europe gave the following definition of doping:
+
+"Doping is the administration to a normal subject in any possible way of a foreign agent or abnormal quantities of physiological substances with the sole purpose of increasing artificially and in an unfair manner the performance of the subject participating in a contest."
+The International Olympic Committee slightly modified this, and adopted this definition:
+
+"The administration of or use by a competing athlete of any substance foreign to the body or any physiologic substance taken in abnormal quantity or taken by an abnormal route of entry into the body with the sole intention of increasing in an artificial and unfair manner his/her performance in competition. When necessity demands medical treatment with any substance which, because of its nature, dosage, or application is able to boost the athlete's performance in competition in an artificial and unfair manner, this too is regarded as doping."
+</doc>
+
+<doc id="52016755" title="Doping at the 1998 Tour de France">
+The year in which the 1998 Tour de France took place marked the moment when cycling was fundamentally shattered by doping revelations. Paradoxically no riders were caught failing drug tests by any of the ordinary doping controls in place at the time. Nevertheless, several police searches and interrogations managed to prove existence of organized doping at the two teams Festina and TVM, who consequently had to withdraw from the race. After stage 16, the police also forced the virtual mountain jersey holder Rodolfo Massi to leave the race, due to having found illegal corticosteroids in his hotel room. The intensive police work then led to a peloton strike at stage 17, with a fallout of four Spanish teams and one Italian team deciding to leave the race in protest.
+Many years later, retrospective tests and rider confessions confirmed the common suspicion that consumption of EPO had not been limited to those being caught by the police, but in fact was something the majority of the peloton had used at this point of time.
+
+
+</doc>
+
+<doc id="52015940" title="Doping at the 1999 Tour de France">
+At the time of the 1999 Tour de France there was no official test for EPO. In August 2005, 60 remaining antidoping samples from the 1998 Tour and 84 remaining antidoping samples given by riders during the 1999 Tour, were tested retrospectively for recombinant EPO by using three recently developed detection methods. More precisely the laboratory compared the result of test method A: "Autoradiography — visual inspection of light emitted from a  strip displaying the isoelectric profile for EPO" (published in the Nature journal as the first EPO detection method in June 2000), with the result of test method B: "Percentage of basic isoforms — using an ultra-sensitive camera that by percentage quantify the light intensity emitted from each of the isoelectric bands" (pioneered at the Olympics in September 2000, with values above 80% classified as positive, but the laboratory applying an 85% threshold for retrospective samples — to be absolutely certain that no false-positives can occur when analyzing on samples stored for multiple years). For those samples with enough urine left, these results of test method A+B were finally also compared with the best and latest test method C: "Statistical discriminant analysis — taking account all the band profiles by statistical distinguish calculations for each band" (which feature both higher sensitivity and accuracy compared to test method B).
+At first, the rider names with a positive sample in the retrospective test were not made public, because this extra test had only been conducted as scientific research, with the purpose of validating the newest invented EPO-test method based on "statistical discriminant analysis". On 23 August 2005, only one day after the confidential test report had been submitted by the test laboratory LNDD to WADA and the French Ministry for Sports, the French newspaper L'Équipe however reported, that after having access to all Lance Armstrong's Sample IDs, they had managed to link him to 6 out of the 12 "definitely EPO-positive" samples. The phrase "definitely EPO-positive" referred to that all three applied test methods (A+B+C) had returned a positive result, and it was reported Armstrong's six samples satisfying this requirement had been collected on the following dates: 3+4+13+14+16+18 July 1999. From the leaked report it was also possible to conclude, that all of the four unidentified riders tested at the Prologue on top of the list, had submitted samples being EPO positive by all three applied test methods. As it was known from earlier press reports, that only four named riders (Beltran, Castelblanco, Hamburger and Armstrong) had been tested in the Prologue, they were all identified as having tested EPO-positive.
+In response, UCI published the so-called Vrijman report in May 2006, where they alleged WADA had been responsible for the leak of the confidential test report to the press, and had been plotting against Lance Armstrong when they asked the French laboratory to note sample IDs in their confidential report, as Vrijman suspected they already had inside knowledge of some journalists being in possession of Armstrongs confidential doping forms — knowing that this all together could be used to link him to the positive samples. However, a few days later, WADA published a full written reply to completely rebut this accusation, and was moreover able to prove the journalist in fact had received the Armstrong doping forms by legal ways, from UCI itself — with Armstrong's written consent — and without any help/interference by WADA.
+In July 2013, the antidoping committee of the French Senate decided it would benefit the current doping fight to shed some more light on the past, and so decided — as part of their "Commission of Inquiry into the effectiveness of the fight against doping" report — to publish all of the 1998 rider doping forms and some of the 1999 rider doping forms, along with the result of the retrospective test of the 1998+1999 samples, which made name identification possible for the various sample IDs. This publication revealed for the 1999 samples, that 13 of the 20 positive samples belonged to 6 riders (Lance Armstrong, Kevin Livingston, Manuel Beltrán, José Castelblanco, Bo Hamburger, and Wladimir Belli), with the remaining 7 positive samples still not identified. Beside of the 20 positive samples, 34 were reported to have tested negative, and the remaining 30 samples were inconclusive due to sample degradation.
+
+
+</doc>
+
+<doc id="12447657" title="Doping at the 2007 Tour de France">
+The 2007 Tour de France was affected by a series of scandals and speculations related to doping. By the end of the Tour, two cyclists were dismissed for failing tests and the wearer of the yellow jersey was voluntarily retired by his team for lying about his whereabouts and missing doping tests. A fourth rider was confirmed to having used doping while in a training session prior to the 2007 Tour and a fifth rider failed tests late in the race, with his result being officially announced just after the end of the Tour. During the competition, two teams were asked to withdraw after at least one member was found to have doped.
+The events generated criticism and a general distrustful attitude toward the sport of professional cycling from media and public opinion. The doping allegations also resulted in several team sponsors threatening to retire their support if events advanced further. Some media such as German TV channels ARD and ZDF left the Tour once the first scandals broke. Following the Tour's conclusion, the sport's governing bodies spoke out about ways to combat the prevalence of doping in cycling and key team sponsors elected to withdraw their support due to the reputational damage caused by the scandals. The 2007 Tour de France has been referred to as one of the most controversial Tours. After the end of the Tour, The Times of London ranked it 4th in its list of the top 50 sporting scandals.
+
+
+</doc>
+
+<doc id="2181367" title="Djamolidine Abdoujaparov">
+Djamolidine Mirgarifanovich Abdoujaparov (Uzbek: Jamoliddin Mirgarifanovich Abdujaparov; born 28 February 1964) is a former professional road racing cyclist from Uzbekistan. Abdoujaparov was a sprinter, nicknamed "The Tashkent Terror" as he was so ferocious in the sprints. His unorthodox and often erratic sprinting caused a number of crashes. He competed in the individual road race at the Olympic Games on two occasions: in 1988 for the Soviet Union and in 1996 for Uzbekistan; he placed fifth in 1988.
+
+
+</doc>
+
+<doc id="52140695" title="Toon Aerts">
+Toon Aerts (born 19 October 1993 in Malle) is a Belgian professional cyclo-cross and road cyclist, who currently rides for UCI Cyclo-cross team Team Deschacht–Group Hens–Containers Maes. Aerts is a two-time winner of the UCI Cyclo-cross World Cup standings (2018–19, 2019–20), and also won the men's elite race at the 2016 European Championships and the 2019 Belgian National Championships. His brother Thijs is also a professional cyclist.
+On 18 August 2023, the UCI announced that Aerts had been found guilty of a doping violation, and was banned for two years from February 2022 to February 2024. His results between January and February 2023 were also expunged.
+</doc>
+
+<doc id="36871332" title="Stefano Agostini (cyclist)">
+Stefano Agostini (born 3 January 1989) is a professional road cyclist, who last rode for Cannondale. He joined the team in 2011 as a stagiaire before signing on as a neo-pro for the 2012 season.
+On 20 September 2013 the UCI announced that Agostini was provisionally suspended for an adverse analytical finding for 0.7 nanogram per millilitre clostebol in an out-of-competition test taken on 21 August 2013. He was also fired by the Cannondale team. He was given a 15-month suspension for doping, ending 20 November 2014.
+</doc>
+
+<doc id="11226630" title="Raúl Alarcón">
+Raúl Alarcón García (born March 25, 1986) is a Spanish professional road bicycle racer. Born in Sax, Valencia, Spain, he turned professional in 2007 with UCI ProTeam Saunier Duval–Prodir. On 10 March 2021, he was suspended for doping until 23 October 2023 and was stripped of 19 victories, including wins at Volta a Portugal in 2017 and 2018.
+</doc>
+
+<doc id="46222494" title="Cristina Alcalde">
+Cristina Alcalde  (born 3 March 1980) is a road cyclist from Spain. She represented her nation at the 2004 UCI Road World Championships. In 2006 Alcalde was suspended for two years after she failed a drug test.
+
+
+</doc>
+
+<doc id="804154" title="Rolf Aldag">
+Rolf Aldag (born 25 August 1968) is a German former professional road bicycle racer who rode for Team Telekom from 1993 to 2005. He raced in 10 Tour de France, 1 Giro d'Italia and 5 Vuelta a España. Prior to joining Telekom, he raced with Helvetia. Beginning in 2020, Aldag works as directeur sportif for the Canyon–SRAM team. In 2007 Aldag admitted to doping by having used Erythropoietin (EPO) from 1995 to 1999.
+</doc>
+
+<doc id="54314398" title="André Almeida (cyclist)">
+André de Souza Almeida (born 16 December 1992) is a Brazilian cyclist, who currently rides for club team Soul Cycles–Santos.
+Almeida served a suspension December 2018 through January 2022 due to a hemoglobin level in his biological passport which was found to be too low in 2016.
+</doc>
+
+<doc id="11124313" title="Uwe Ampler">
+Uwe Ampler  (born 11 October 1964) is a retired track and road cyclist who competed for East Germany  at the 1988 Summer Olympics in Seoul, South Korea. There he won the gold medal in the men's team time trial, alongside Jan Schur, Mario Kummer, and Maik Landsmann.
+Ampler won the Peace Race in 1987, 1988, 1989 and 1998.
+In August 1999 he tested positive for steroids during the Sachsen Tour and admitted he was doping. His father, Klaus Ampler, was also a famous cyclist. Also his son Rick Ampler (* 1989) was cyclist.
+</doc>
+
+<doc id="2632731" title="Kim Andersen (cyclist)">
+Kim Andersen (born 10 February 1958) is a Danish former professional road bicycle racer and current cycling team directeur sportif. From 2004 to 2010, he was a directeur sportif for Danish ProTour Team Saxo Bank. From 2011, he holds the same position at the Leopard Trek team.
+</doc>
+
+<doc id="2224176" title="Frankie Andreu">
+Francisco "Frankie" Andreu (born September 26, 1966) is an American former professional cyclist whose career highlights include riding as team captain of the U.S. Postal Service cycling team in 1998, 1999 and 2000. During his career, he won a number of race stages and finished fourth in the cycling road race at the 1996 Olympics. His testimony played a key part in the United States Anti-Doping Agency's investigation of fellow U.S. Postal cyclist Lance Armstrong's doping practices.
+</doc>
+
+<doc id="351192" title="Jacques Anquetil">
+Jacques Anquetil (pronounced [ʒak ɑ̃k.til]; 8 January 1934 – 18 November 1987) was a French road racing cyclist and the first cyclist to win the  Tour de France five times, in 1957 and from 1961 to 1964.
+He stated before the 1961 Tour that he would gain the yellow jersey on day one and wear it all through the tour, a tall order with two previous winners in the field—Charly Gaul and Federico Bahamontes—but he did it. His victories in stage races such as the Tour were built on an exceptional ability to ride alone against the clock in individual time trial stages, which lent him the name "Monsieur Chrono".
+He won eight Grand Tours in his career, which was a record when he retired and has only since been surpassed by Eddy Merckx and Bernard Hinault.
+</doc>
+
+<doc id="36579381" title="Tatiana Antoshina">
+Tatiana Andreyevna Antoshina (born 27 July 1982) is a Russian road bicycle racer.
+</doc>
+
+<doc id="51190357" title="Amaro Antunes">
+Amaro Manuel Raposo Antunes (born 27 November 1990) is a Portuguese cyclist, who last rode for UCI Continental team W52 / FC Porto. In May 2019, he was named in the startlist for the 2019 Giro d'Italia. On 2 March 2023, he was suspended for doping retrospectively from 5 December 2022 until 5 December 2026 by the UCI. Some of his results including the 2017 and 2021 Volta a Portugal overall wins were then annulled.
+
+
+</doc>
+
+<doc id="31981205" title="Davide Appollonio">
+Davide Appollonio (born 2 June 1989) is an Italian professional road bicycle racer, who most recently rode for UCI Continental team Amore & Vita.
+</doc>
+
+<doc id="23243880" title="Lance Armstrong">
+Lance Edward Armstrong (né Gunderson; born September 18, 1971) is an American former professional road racing cyclist. He achieved international fame for winning the Tour de France a record seven consecutive times from 1999 to 2005, but was stripped of his titles in 2012 after an investigation into doping allegations, called the Lance Armstrong doping case, found that Armstrong used performance-enhancing drugs over his career. As a result, Armstrong is currently banned for life from all sanctioned bicycling events.
+At age 16, Armstrong began competing as a triathlete and was a national sprint-course triathlon champion in 1989 and 1990. In 1992, he began his career as a professional cyclist with the Motorola team. Armstrong had success between 1993 and 1996 with the World Championship in 1993, the Clásica de San Sebastián in 1995, Tour DuPont in 1995 and 1996, and a handful of stage victories in Europe, including stage 8 of the 1993 Tour de France and stage 18 of the 1995 Tour de France. In 1996, he was diagnosed with a potentially fatal metastatic testicular cancer. After recovering, Armstrong founded the Lance Armstrong Foundation (now the Livestrong Foundation) to assist other cancer survivors.
+Returning to cycling in 1998, Armstrong was a member of the US Postal/Discovery team between 1998 and 2005 when he won his seven Tour de France titles. Armstrong retired from racing at the end of the 2005 Tour de France, but returned to competitive cycling with the Astana team in January 2009, finishing third in the 2009 Tour de France later that year. Between 2010 and 2011, he raced with Team Radio Shack, and retired for a second time in 2011.
+Armstrong became the subject of doping allegations after winning the 1999 Tour de France. For years, he denied involvement in doping. In 2012, a United States Anti-Doping Agency (USADA) investigation concluded that Armstrong had used performance-enhancing drugs over the course of his career and named him as the ringleader of "the most sophisticated, professionalized and successful doping program that sport has ever seen". While maintaining his innocence, Armstrong chose not to contest the charges, citing the potential toll on his family. He received a lifetime ban from all sports that follow the World Anti-Doping Code, ending Armstrong's competitive cycling career. The International Cycling Union (UCI) upheld USADA's decision and decided that his stripped wins would not be allocated to other riders. In January 2013, Armstrong publicly admitted his involvement in doping. In April 2018, Armstrong settled a civil lawsuit with the United States Department of Justice and agreed to pay US$5 million to the U.S. government after whistleblower proceedings were commenced by Floyd Landis, a former team member.
+</doc>
+
+<doc id="15254548" title="Marco Arriagada">
+Marco Antonio Arriagada Quinchel (born  October 30, 1975, in Curicó) is a Chilean professional racing cyclist. He is the brother of cyclist Marcelo Arriagada. He carried the flag for his native country at the opening ceremony of the 2007 Pan American Games in Rio de Janeiro, Brazil. After a very successful opening to his 2011 season, which saw him take victories in Argentina, Chile and the Dominican Republic, Arriagada tested positive for the anabolic steroid stanozolol during the Vuelta de Chile. He later received a four-year ban.
+
+
+</doc>
+
+<doc id="18476734" title="Ángel Arroyo">
+Angel Arroyo Lanchas (born 2 August 1956 in El Barraco) is a Spanish former professional road bicycle racer. In the 1983 Tour de France, Arroyo won one stage and finished 2nd place in the general classification.
+In stage 17 of the 1982 Vuelta a España, while leading the race, Arroyo was tested positive for Methylphenidate, and got a 10 minutes time penalty. This effectively stripped him of victory and put him back in 13th place.
+</doc>
+
+<doc id="15266279" title="Hossein Askari">
+Hossein Askari (Persian: حسین عسگری, born March 23, 1975) is an Iranian former professional racing cyclist, who competed professionally between 2005 and 2016 for the Giant Asia Racing Team, Tabriz Petrochemical Team, Ayandeh Continental Team and Pishgaman–Giant teams. 
+
+
+</doc>
+
+<doc id="2759495" title="Igor Astarloa">
+Igor Astarloa Askasibar (born March 29, 1976) is a retired cyclist from Spain.
+</doc>
+
+<doc id="12318260" title="Mikel Astarloza">
+Mikel Astarloza Chaurreau (born 17 November 1979 in Gipuzkoa, Basque Country) is a Spanish former professional road bicycle racer, who competed as a professional between 2002 and 2009, and 2011 to 2013.
+</doc>
+
+<doc id="16349121" title="Niklas Axelsson">
+Niklas Axelsson (born 15 May 1972) is a Swedish former professional road racing cyclist. Axelsson finished sixth during the 1999 Giro d'Italia and third in the 2000 edition of Giro di Lombardia. He is banned from sports for life for doping.
+</doc>
+
+<doc id="27711101" title="Ron Baensch">
+Ronald Baensch (5 June 1939 – 28 December 2017) was an Australian racing cyclist, specialising in track sprinting events.  He represented Australia at the 1960 Olympics and several World Championships in the 1960s and in 1970.
+</doc>
+
+<doc id="50267002" title="Onur Balkan">
+Onur Balkan (born 10 March 1996) is a Turkish cyclist, who is currently suspended from competition.
+</doc>
+
+<doc id="5647750" title="Alessandro Ballan">
+Alessandro Ballan (born 6 November 1979) is an Italian former professional road bicycle racer who most recently rode for UCI World Tour team BMC Racing Team. He is best known for winning the World Road Race Championships, in 2008. Although he possessed a frame that was usually more associated with climbing, Ballan established himself as a leading spring classics contender. His nickname, Bontempino, is a diminutive reference to Guido Bontempi, to whom he bears a resemblance.
+</doc>
+
+<doc id="35294994" title="Victoria Baranova">
+Victoria Alekseyevna Tyumneva, née Baranova (Russian: Виктория Алексеевна Тюмнева (Баранова); born 6 February 1990) is a Russian track cyclist. At the 2012 Summer Olympics, cycling's governing body, the UCI, confirmed that Baranova tested positive for a prohibited substance and was sent home from the Games.
+</doc>
+
+<doc id="33560713" title="Sergio Barbero">
+Sergio Barbero (born 17 January 1969) is an Italian former racing cyclist.
+</doc>
+
+<doc id="10659791" title="Carlos Barredo">
+Carlos Barredo Llamazales (born 5 June 1981, in Oviedo, Asturias) is a Spanish former road racing cyclist, who competed as a professional between 2004 and 2012. He was issued a suspension for the first two months of the 2011 season in response to a fight with Rui Costa after a 2010 Tour de France stage, with Barredo claiming that Costa had ridden dangerously in the final stages of the race, but later apologising for his actions.
+</doc>
+
+<doc id="6031191" title="Michael Barry (cyclist)">
+Michael Barry (born 18 December 1975) is a Canadian author and former professional road racing cyclist. Barry raced for numerous world-class teams with the role of 'domestique'. His greatest personal successes were placing eighth in the 2008 Beijing Olympics' road race, finishing second in the Canadian National Road Race Championships in 2001 and 2012, and winning a stage of the Tour of Missouri in 2008. He announced his retirement in September 2012, stating that the 2012 Tour of Beijing would be his last race. He is also an author who has written three books.
+
+
+</doc>
+
+<doc id="39887341" title="Monica Bascio">
+Monica Bascio (born September 16, 1969) is an American Paralympic cross-country skier, biathlete, and handcyclist. Making her Paralympic debut at the Paralympic Winter Games Torino 2006, she has competed in a total of four Paralympic Games. At London 2012, Bascio secured two silver medals in handcycling. She was named the United States Olympic Committee’s Paralympic Sportswoman of the Year in 2013.
+Following her retirement after Paralympic Winter Games Sochi 2014, Bascio was diagnosed with colon cancer later that year. She went through surgery and chemotherapy treatment and has been cancer free since April 2015.
+In September 2016, she was elected to the International Paralympic Committee Athletes' Council, where she works to be a voice and an advocate for Paralympic athletes all over the world. In 2018, Monica was appointed to the IOC Athlete's Entourage Commission, and was also invited to serve on the Adaptive Spirit board of directors.
+</doc>
+
+<doc id="846326" title="Ivan Basso">
+Ivan Basso (born 26 November 1977) is an Italian former professional road bicycle racer, who rode professionally between 1999 and 2015 for seven different teams. Basso, nicknamed Ivan the Terrible, was considered among the best mountain riders in the professional field in the early 21st century, and was considered one of the strongest stage race riders. He is a double winner of the Giro d'Italia, having won the race in 2006 for Team CSC and 2010 for Liquigas–Doimo.
+In 2007, Basso admitted to planning the use of blood doping and was suspended for two years. His suspension ended on 24 October 2008, and he returned to racing two days later in the Japan Cup, where he placed a close third behind Damiano Cunego and Giovanni Visconti. He later returned to racing in his home tour, and in 2010, he won his second Giro d'Italia, winning two stages along the way.
+</doc>
+
+<doc id="2533460" title="Christophe Bassons">
+Christophe Bassons (born 10 June 1974) is a French former professional road racing cyclist. His career ended when he spoke out about doping in the Tour de France.
+</doc>
+
+<doc id="3684357" title="Giovanni Battaglin">
+Giovanni Battaglin (born 22 July 1951) is an Italian professional road racing cyclist. The highlight of his career was his overall win in the 1981 Giro d'Italia and the 1981 Vuelta a España.
+</doc>
+
+<doc id="15326851" title="Grégory Baugé">
+Grégory Baugé (born 31 January 1985) is a French professional racing cyclist.
+
+
+</doc>
+
+<doc id="44301951" title="Pierre Bazzo">
+Pierre Bazzo (born 17 January 1954) is a French former racing cyclist. He rode in nine editions of the Tour de France between 1977 and 1985. Bazzo tested positive for the anabolic steroid nandrolone after the 7th stage of the 1983 Tour de France.
+
+
+</doc>
+
+<doc id="13153606" title="Vicente Belda">
+Vicente Belda Vicedo (born 12 September 1954) is a Spanish former professional road bicycle racer, born in Alfafara. He is now the manager of Spanish UCI Professional Continental outfit Fuerteventura–Canarias. Until 2006 he was the directeur sportif of Comunidad Valenciana, which was highly involved in the Operación Puerto doping case.
+Belda received a penalty for testing positive for the stimulant Methylphenidate (Ritalin) on stage 17 of the 1982 Vuelta a España.
+
+
+</doc>
+
+<doc id="7321087" title="Manuel Beltrán">
+Manuel Beltrán Martinez (born 28 May 1971) is a former professional road bicycle racer from Spain.   His finishes in the Tour de France are somewhat misleading as he was a lieutenant for his team leader. He was the team leader for numerous Vuelta a España rides and performed well.
+Beltrán tested positive for EPO after the first stage of the 2008 Tour de France, according to L'Équipe 11 July 2008. The same date as the news broke, a spokesman for his team Liquigas said he would be suspended from the team and thrown out of that year's tour.  It was later confirmed that his B-sample also tested positive.
+Beltrán was suspended for two years. In 2010, he had to pay his former team 100.000 euros because of his positive doping test in the Tour de France.
+His name was also on the list of doping tests published by the French Senate on 24 July 2013 that were collected during the 1998 Tour de France and found positive for EPO when retested in 2004.
+</doc>
+
+<doc id="15410545" title="Ben Berden">
+Ben Berden (born 29 September 1975 in Hasselt) is a Belgian professional racing cyclist specializing in cyclocross. Berden was caught for doping in January 2005, immediately admitted to it, and was ultimately banned from the sport for 15 months.
+</doc>
+
+<doc id="22975617" title="Adam Bergman">
+Adam Bergman (born August 30, 1980) is an American cyclist.
+</doc>
+
+<doc id="3145299" title="Lorenzo Bernucci">
+Lorenzo Bernucci (born 15 September 1979 in Sarzana) is an Italian former professional road bicycle racer. He rose to international prominence when he won stage 6 of the 2005 Tour de France, when riding for Fassa Bortolo.
+</doc>
+
+<doc id="12610232" title="Leonardo Bertagnolli">
+Leonardo Bertagnolli (born 8 January 1978 in Trento) is a retired Italian professional road bicycle racer, who rode as a professional between 2002 and 2012.
+</doc>
+
+<doc id="1371956" title="Evgeni Berzin">
+Evgeni Valentinovich Berzin (Russian: Евге́ний Валенти́нович Берзин; born 3 June 1970) is a Russian former road cyclist.
+Coming from track cycling, where he successfully represented the Soviet Union at World Championships, he moved to Italy in 1992 and turned professional with Mecair–Ballan in 1993. His second season in 1994 was to be his best, with victories at the Giro d'Italia and Liège–Bastogne–Liège. He finished second at the 1995 Giro d'Italia, but failed to live up to high expectations in the years after. A brief spell in the race leader's yellow jersey and a stage win at the 1996 Tour de France were his last big results. In 1997, he unsuccessfully attempted to break Chris Boardman's hour record. He retired from the sport in 2001.
+</doc>
+
+<doc id="7486255" title="Volodymyr Bileka">
+Volodymyr Bileka (Ukrainian: Володимир Білека, born 6 February 1979 in Drohobych) is a Ukrainian professional road bicycle racer. He rode for Discovery Channel between 2005 and 2007. As with teammate and compatriot Yaroslav Popovych, he showed promise by winning numerous races as a junior before turning professional.
+</doc>
+
+<doc id="15340800" title="Jack Bobridge">
+Jack Bobridge (born 13 July 1989) is an Australian former professional racing cyclist, who rode professionally between 2010 and 2016.
+In 2019 he was convicted of drug dealing and sentenced to a four-year prison term. He admitted to using banned recreational drugs during his racing career, noting that he used cocaine in training leading up to major cycling events, including the Olympics.
+</doc>
+
+<doc id="6882396" title="Udo Bölts">
+Udo Bölts (born 10 August 1966) is a retired German racing cyclist, the brother of Hartmut Bölts. Bölts confessed publicly in 2007 to having used EPO and growth hormones in 1996 and 1997.
+</doc>
+
+<doc id="2064976" title="Michael Boogerd">
+Michael Boogerd (born 28 May 1972) is a Dutch former professional road bicycle racer. He was one of the leaders of a generation of Dutch cyclists in the late 1990s and early 2000s, together with teammate Erik Dekker and female cyclist Leontien van Moorsel.
+</doc>
+
+<doc id="19740614" title="Eddie Borysewicz">
+Edward Borysewicz (March 18, 1939 – November 16, 2020), sometimes known as "Eddie B", was a cycling coach who brought the United States to world prominence, even though at first he barely spoke English. The US team, under his direction, won nine medals at the Olympic Games in Los Angeles in 1984. It was the first time Americans had won medals since 1912. Audrey McElmury won the World Road Cycling Championships in 1969, followed by Beth Heiden, in 1980.
+
+
+</doc>
+
+<doc id="17022159" title="Gabriele Bosisio">
+Gabriele Bosisio (born 6 August 1980 in Lecco) is a retired Italian professional road bicycle racer. Bosisio rode for Tenax–Nobili Rubinetterie between 2003 and 2005 and for UCI Professional Continental team LPR Brakes–Ballan between 2008 and 2009.
+On 6 October 2009 it was announced that he had failed a drugs test. On 28 April 2010, it was announced that he would be suspended from professional cycling for 2 years. He was provisionally suspended by the UCI on 6 October, and his ban ended on 5 October 2011. After completing his ban, Bosisio signed with Utensilnord–Named for the 2012 season.
+
+
+</doc>
+
+<doc id="12226330" title="Paolo Bossoni">
+Paolo Bossoni (born 2 July 1976 in San Secondo Parmense) is an Italian professional road bicycle racer.
+</doc>
+
+<doc id="14385766" title="Eddy Bouwmans">
+Eddy Bouwmans (born 30 January 1968) is a Dutch former road bicycle racer.  Bouwmans currently works as a Hospitality Coordinator for UCI WorldTeam Visma–Lease a Bike.
+</doc>
+
+<doc id="12591727" title="Borut Božič">
+Borut Božič (born 8 August 1980) is a Slovenian former professional road racing cyclist, who rode professionally between 2004 and 2018 for the Perutnina Ptuj, Team LPR, Cycle Collstrop, Vacansoleil–DCM, Astana, Cofidis and Bahrain–Merida teams.
+Considered a sprinter in the mold of Óscar Freire, Božič's career highlights include winning the 2007 Tour de Wallonie, victory in the first stage of the 2009 Tour de Pologne (plus two days in the leader's jersey), winning the sixth stage of the 2009 Vuelta a España, and winning stage five of the 2011 Tour de Suisse. Božič worked as a directeur sportif for the Bahrain–Merida team up to October 2019 but in that month was issued with a 2-year ban for his links to the doping ring uncovered by Operation Aderlass.
+
+
+</doc>
+
+<doc id="5619483" title="Janez Brajkovič">
+Janez "Jani" Brajkovič (born 18 December 1983) is a racing cyclist from Metlika, Slovenia, who most recently rode for UCI Continental team Adria Mobil. He was the world under-23 Time Trial champion in 2004.
+In 2018, while riding for the Adria Mobil team, Brajkovič was suspended after a positive anti-doping test. He was banned for just over a year, and once his suspension was complete, he rejoined the Adria Mobil team.
+</doc>
+
+<doc id="50213232" title="Joni Brandão">
+Joni Silva Brandão (born 20 November 1989) is a Portuguese cyclist who most recently rode for UCI Continental team W52 / FC Porto.
+On 2 May 2023, he received a six-year ban by UCI for doping.
+</doc>
+
+<doc id="2759325" title="Laurent Brochard">
+Laurent Brochard (born 26 March 1968) is a retired professional road racing cyclist from France. In 1997 he won a stage of the Tour de France and became world road champion in San Sebastián, Spain.
+Brochard was a runner and started cycling competitively at 19.  He started with Castorama and became part of Festina cycling team.  His role in Festina was super-domestique, supporting stars such as Richard Virenque but able to ride competitively when given the chance.  He was implicated in the Festina scandal in the 1998 Tour de France.
+After serving his suspension, Brochard joined Ag2r Prévoyance as leader and had successes in races such as Critérium International and Étoile de Béssèges.  He then moved to Bouygues Télécom.
+He is a fan of Belgian comic character Marsupilami, often wearing Marsupilami logo and clothing at races.
+</doc>
+
+<doc id="17578701" title="Dave Bruylandts">
+Dave Bruylandts (born 12 July 1976 in Lier) is a Belgian former professional road bicycle racer. Bruylandts was tested positive for EPO use in 2004 and was banned for 18 months. Following his ban, Bruylandts briefly rode for Unibet.com in 2006 and for the UCI Continental team Klaipėda-Splendid Cyclingteam in 2007. Bruylandts is married to racing cyclist Femke Melis.
+</doc>
+
+<doc id="2222273" title="Johan Bruyneel">
+Johan Bruyneel (born 23 August 1964) is a  Belgian former professional road bicycle racer and a former directeur sportif for UCI ProTour team RadioShack–Nissan, and U.S. Postal Service (later known as Discovery Channel), a US-based UCI ProTour cycling team. On 25 October 2018, the World Anti Doping Agency imposed a lifetime ban on Bruyneel for his role in a doping scandal that also saw Lance Armstrong stripped of his seven Tour de France titles.
+
+
+</doc>
+
+<doc id="51191121" title="Samuel Caldeira">
+Samuel José Rodrigues Caldeira (born 30 November 1985) is a Portuguese cyclist who last rode for UCI Continental team W52 / FC Porto.
+On 4 October 2022, he received a three-year ban by the UCI for doping.
+</doc>
+
+<doc id="2759429" title="Oscar Camenzind">
+Oscar Camenzind (born 12 September 1971) is a former professional road racing cyclist from Switzerland. He became national road champion in 1997. In 1998 he won the World Road Championship and the Giro di Lombardia, in 2000 the Tour de Suisse and Liège–Bastogne–Liège in 2001. His career came to an abrupt end when he retired from pro cycling after a positive doping test in July 2004 for erythropoietin, leading into the Athens Olympics. After confessing to the use, in 2005 he was sued in Swiss court in order to name his supplier, which he refused to do fearing retribution.
+</doc>
+
+<doc id="15808675" title="Ludovic Capelle">
+Ludovic Capelle (born 27 February 1976 in Namur) is a Belgian former professional road racing cyclist. He was professional from 1998 until 2009, riding for Ville de Charleroi–New Systems (1998–2000), AG2R Prévoyance (2001–2002), Landbouwkrediet–Colnago (2003–2005), Roubaix–Lille Métropole (2007), Rietumu Banka–Riga (2008) and Continental Team Differdange (2009). He rode the 2001 Tour de France and recorded victories at Scheldeprijs Vlaanderen (2003), Dwars door Vlaanderen (2004) and Grand Prix d'Isbergues (2004).
+</doc>
+
+<doc id="42724216" title="Ramón Carretero">
+Ramón Carretero Marciags (born 26 November 1990) is a Panamanian racing cyclist, who is currently suspended from the sport due to an anti-doping violation. He raced in the 2014 Giro d'Italia, but withdrew after not finishing stage 7.
+</doc>
+
+<doc id="35817527" title="Damiano Caruso">
+Damiano Caruso (born 12 October 1987) is an Italian professional road bicycle racer, who rides for UCI WorldTeam Team Bahrain Victorious. A stage winner at both the 2021 Giro d'Italia and the 2021 Vuelta a España, Caruso was also the 2008 under-23 Italian national champion for the road race. He competed at the 2020 Summer Olympics, in the road race.
+</doc>
+
+<doc id="12912951" title="Giampaolo Caruso">
+Giampaolo Caruso (born 15 August 1980) is an Italian former professional road bicycle racer, who rode professionally between 2002 and 2015 for the Würth, Lampre–Fondital, LPR Brakes–Ballan, Ceramica Flaminia and Team Katusha squads.
+During his professional career, Caruso took five victories – all coming in Italy – with three stage wins and the general classification at the 2009 Brixia Tour, and a one-day race success at the 2014 Milano–Torino. He was also twice suspended for doping violations – in 2003, he was given a six-month ban for the use of nandrolone at the 2003 Tour Down Under, and in 2015, he was banned for two years after a positive drugs test for erythropoietin (EPO) recorded three years earlier.
+
+
+</doc>
+
+<doc id="2204856" title="Francesco Casagrande">
+Francesco Casagrande (born 14 September 1970 in Florence) is an Italian former professional road racing cyclist. Casagrande was a professional cyclist between 1992 and 2005.
+</doc>
+
+<doc id="5808517" title="Jimmy Casper">
+Jimmy Casper (born 28 May 1978) is a French retired road bicycle racer, who competed as a professional between 1998 and 2012. He won stage 1 of the 2006 Tour de France.
+
+
+</doc>
+
+<doc id="12101861" title="Marco Chagas">
+Marco António Chagas Martins (born 19 November 1956) is a Portuguese former racing cyclist who is a cycling commentator on RTP. A professional rider from 1976 to 1990, he won the Volta a Portugal four times, in 1982, 1983, 1985 and 1986, making him the second most successful rider in the competition, after David Blanco. Chagas was stripped from his win at the 1979 Volta a Portugal due to doping.
+</doc>
+
+<doc id="2319208" title="Claudio Chiappucci">
+Claudio Chiappucci (born 28 February 1963 in Uboldo, Varese, Lombardy) is a retired Italian professional cyclist. He was on the podium three times in the Tour de France general classification: second in 1990, third in 1991 and second again in 1992.
+
+
+</doc>
+
+<doc id="17449338" title="Riccardo Chiarini">
+Riccardo Chiarini (born 20 February 1984) is an Italian mountainbiker and former professional road bicycle racer, who last rode for UCI Professional Continental team Androni Giocattoli–Venezuela. He is a native of Faenza.
+</doc>
+
+<doc id="11463769" title="Jérôme Chiotti">
+Jérôme Chiotti (born 18 January 1972) is a French former professional racing cyclist who competed in road, cyclo-cross and mountain bike disciplines. He is most renowned for his victory in the 1996 World Mountain Bike Championships, a title which he later renounced by admitting doping.
+
+
+</doc>
+
+<doc id="15410090" title="Anastasia Chulkova">
+Anastasia Aleksandrovna Chulkova (Russian: Анастасия Александровна Чулкова; born 7 March 1985) is a Russian professional racing cyclist.
+</doc>
+
+<doc id="6870870" title="Dario Cioni">
+Dario David Cioni (born 2 December 1974) is a retired English-born Italian professional road bicycle racer.
+</doc>
+
+<doc id="9503190" title="Antonio Colóm">
+Antonio Colóm Mas (born 11 May 1978) is a Spanish professional road bicycle racer from Bunyola. He is a specialist in short stage races, having won the Volta a la Comunitat Valenciana in 2006, the Vuelta a Mallorca in 2004 and the Vuelta a Andalucía in 2002.
+</doc>
+
+<doc id="5606060" title="Alberto Contador">
+Alberto Contador Velasco (Spanish pronunciation: [alˈβeɾto kontaˈðoɾ βeˈlasko]; born 6 December 1982) is a Spanish former professional cyclist. He is one of the most successful riders of his era, winning the Tour de France twice (2007, 2009), the Giro d'Italia twice (2008, 2015), and the Vuelta a España three times (2008, 2012, 2014). He is one of only seven riders to have won all three Grand Tours of cycling, and one of only two riders to have won all three more than once. He has also won the Vélo d'Or a record 4 times.
+He was regarded as the natural successor of Lance Armstrong and won the 2007 Tour de France with the Discovery Channel team. During his time at the Astana team, he won the 2008 Giro d'Italia, the 2008 Vuelta a España and the 2009 Tour de France. Between 2007 and 2011 he won six consecutive Grand Tours that he entered. This included winning the 2010 Tour de France with Astana, although it later emerged that he had tested positive for clenbuterol during the race. After a long battle in court, he was suspended by the Court of Arbitration for Sport and stripped of his 2010 Tour and 2011 Giro wins.
+Contador was known as an attacking rider who excelled as a climber, and on his best days was also an excellent time-trialist. He was also known for being able to turn races around to his favour, most notably during the Fuente Dé stage at the 2012 Vuelta a España. Following his return from suspension, he won the Vuelta twice and the Giro once more. On the penultimate day of his career, he won a stage victory at the mountaintop finish of the Alto de l'Angliru.
+</doc>
+
+<doc id="22398116" title="Nancy Contreras">
+Nancy Yareli Contreras Reyes (born January 20, 1978, in Ciudad de México, Distrito Federal) is a female track cyclist from Mexico, who represented her native country twice at the Summer Olympics: 1996 and 2004. She won a bronze medal in the 1995 Pan American Games in Mar del Plata, Argentina.
+Contreras won the 500m time trial gold during the 1998 Central American and Caribbean Games, but failed the doping control with Pseudoephedrine and her medal was removed.
+</doc>
+
+<doc id="317022" title="Fausto Coppi">
+Angelo Fausto Coppi (Italian pronunciation: [ˈfausto ˈkɔppi]; 15 September 1919 – 2 January 1960) was an Italian cyclist, the dominant international cyclist of the years after the Second World War. His successes earned him the title Il Campionissimo ("Champion of Champions"). He was an all-round racing cyclist: he excelled in both climbing and time trialing, and was also a good sprinter. He won the Giro d'Italia five times (1940, 1947, 1949, 1952, 1953), the Tour de France twice (1949 and 1952), and the World Championship in 1953. Other notable results include winning the Giro di Lombardia five times, the Milan–San Remo three times, as well as wins at Paris–Roubaix and La Flèche Wallonne and setting the hour record (45.798 km) in 1942.
+
+
+</doc>
+
+<doc id="36568033" title="Juan Cotumba">
+Juan Cotumba Coa (born January 21, 1980, in Potosí) is a Bolivian road bicycle racer, who currently rides for UCI Continental team Pio Rico–Alcaldía La Vega. He is the winner of the 2011 Vuelta a Bolivia and 2014 Vuelta al Sur de Bolivia races.
+</doc>
+
+<doc id="28778021" title="Andrew Crater">
+Andrew Crater (born February 20, 1978, in Greensboro, North Carolina) is an American ex-professional road racing cyclist. On September 9, 2010, it was announced by the United States Anti-Doping Agency (USADA) that Crater accepted a three-month period of ineligibility for an anti-doping rule violation. His period of ineligibility began on September 7, 2010, the day he accepted the sanction. However, the period of ineligibility was suspended and reduced to time served because of Crater's cooperation with USADA.
+Crater tested positive for Carboxy THC, a metabolite of marijuana in the class of Cannabinoids, in a sample collected on August 1, 2010, at the Tour of Elk Grove, in Elk Grove Village, Illinois.
+
+
+</doc>
+
+<doc id="24407473" title="Wendy Cruz">
+Wendy Ramón Cruz Martínez (born 7 March 1976 in Santiago de los Caballeros) is a former professional cyclist from the Dominican Republic. He still competes as an amateur, currently riding for Santiago–Asocisa. Nicknamed El Ciclon he won the gold medal in the men's individual road race at the 2007 Pan American Games.
+In 2012, Cruz tested positive for erythropoietin (EPO) and received a two-year doping suspension.
+
+
+</doc>
+
+<doc id="863492" title="Tom Danielson">
+Thomas Danielson (born March 13, 1978) is an American retired professional road racing cyclist who competed professionally between 2002 and 2015 for the Mercury Cycling Team (2002), the Saturn Cycling Team (2003), Fassa Bortolo (2004), Discovery Channel (2005–2007) and Cannondale–Garmin (2008–2015). He had been suspended twice for doping in his career.
+
+
+</doc>
+
+<doc id="65529676" title="Vlad Dascălu">
+Vlad Dascălu (born 17 December 1997) is a Romanian cross-country mountain biker.
+Dascălu began cycling at the age of 14 with downhill competitions, before switching to cross country.
+</doc>
+
+<doc id="46251979" title="Ilya Davidenok">
+Ilya Davidenok (born 19 April 1992 in Almaty) is a Kazakhstani cyclist, who is currently suspended from the sport until April 2028.
+</doc>
+
+<doc id="14904912" title="Francesco De Bonis">
+Francesco De Bonis (born 14 April 1982 in Isola del Liri) is an Italian former professional road cyclist. In 2008 he won the fourth stage and the mountains classification of the Tour de Romandie. He also rode in the 2009 Giro d'Italia, finishing 79th overall.
+On 27 May 2010, based on discrepancies in his biological passport, De Bonis was suspended for two years by the Italian Olympic Committee after a request from the International Cycling Union.
+</doc>
+
+<doc id="8339259" title="Mario De Clercq">
+Mario De Clercq (born 5 March 1966) is a Belgian former racing cyclist. He specialized in cyclo-cross racing but also rode on the road and circuit races during his career, he raced as a professional between 1991 and 2004. The majority of his years as a professional were under the sponsorship of Palmans–Boghemans and its various co-sponsors.
+</doc>
+
+<doc id="3386188" title="Erik De Vlaeminck">
+Erik De Vlaeminck (23 March 1945 − 4 December 2015) was a Belgian cyclist who became cyclo-cross world-champion seven times (in 1966, 1968, 1969, 1970, 1971, 1972, 1973), a record for male riders.
+</doc>
+
+<doc id="26402160" title="Matt DeCanio">
+Matt DeCanio (born April 5, 1977) is an American ex-professional racing cyclist.
+DeCanio is an outspoken critic of doping in the sport, and founded the Stolen Underground anti-doping movement after voluntarily confessing to performance-enhancing drug use and serving a two-year ban for doping.
+DeCanio was sued in 2008 by convicted doper Kayle Leogrande for defamation, after publishing a recorded telephone call between himself and Suzanne Sonye, although the suit was thrown out by a judge in the Superior Court of California.
+In 2010 he was making a comeback to cycling, racing for French amateur team Olympique Cycliste Val d'Oise.
+In 2022 DeCanio wrote an autobiography detailing his entire racing career and the fallout of him calling out Lance Armstrong and others for doping, long before Armstrong admitted it. He reveals in his book how he was seen as crazy for bringing to light all the doping in the sport, as well as blacklisted, slandered, and threatened.
+</doc>
+
+<doc id="4435210" title="Thomas Dekker (cyclist)">
+Thomas Dekker (born 6 September 1984) is a Dutch former professional road racing cyclist. His career highlights included winning Tirreno–Adriatico in 2006 and Tour de Romandie in 2007. He won two Dutch National Time Trial Championships and represented his country at the 2004 Summer Olympics held in Athens, Greece.
+A few days before the start of the 2009 Tour de France, it was announced that Dekker had tested positive for EPO in a retroactive test carried out on a urine sample taken in December 2007. Dekker initially protested his innocence but he later admitted to using EPO, claiming it was a one-time mistake. He eventually admitted to using EPO over at least parts of the 2007 and 2008 seasons, although he declined to give exact dates. Dekker was suspended for two years, from 1 July 2009 to 30 June 2011.
+Dekker's career has been marked by other doping allegations. He was a client of Luigi Cecchini, an Italian doctor who was investigated in relation to doping matters, though Dekker adamantly denies that Cecchini was involved in his doping. In 2009 he was also questioned in the Humanplasma doping scandal, a suspected doping ring connected to Austrian manager Stefan Matschiner. Dekker retired in March 2015 after narrowly failing to set a new world hour record.
+</doc>
+
+<doc id="1725227" title="Pedro Delgado">
+Pedro Delgado Robledo (pronounced [ˈpeðɾo ðelˈɣaðo roˈβleðo]; born 15 April 1960), also known as Perico ([peˈɾiko]), is a Spanish former professional road bicycle racer. He won the 1988 Tour de France, as well as the Vuelta a España in 1985 and 1989. He finished in the top 10 of eighteen Grand Tours.
+Delgado tested positive for the known masking agent Probenecid during the 1988 tour. The drug, which had been placed on the International Olympic Committee's list of banned substances in January of that year, had not yet been banned by the sport's governing body, the Union Cycliste Internationale; as a consequence, Delgado was allowed to continue racing and was not charged with any doping offence.
+He now works as a sports commentator for Televisión Española during important cycling events.
+</doc>
+
+<doc id="15325088" title="Yeison Delgado">
+Yeison Rogelio Delgado Ortega (born 14 April 1977 in Cúcuta, Colombia) is a Venezuelan professional racing cyclist. He was caught doping in the 2004 Vuelta a Guatemala, alongside Abel Jochola, Nery Velázquez, David Calanche, Noel Velázquez (2nd), Carlos López (3rd), Reynaldo Murillo and Federico Muñoz.
+</doc>
+
+<doc id="13761017" title="Marc Demeyer">
+Marc Demeyer (19 April 1950 – 20 January 1982) was a professional road racing cyclist from Avelgem, Belgium. Although known as the "master servant" for Freddy Maertens, the powerful  Demeyer was able to win 60 professional road races. He died of a heart attack at the age of 31.
+Demeyer turned professional in 1972 for the Flandria team managed by Briek Schotte. He signed the contract while resting it on a car beside the start of Dwars door België, which he then won. Shortly afterwards he won the Grand Prix d'Isbergues.
+
+Demeyer was one of the so-called "Three Musketeers", riding with and for Freddy Maertens and Michel Pollentier He led out sprints for Maertens in particular but could win them for himself, including stages of the Tour de France. He rode the Tour six times, finishing 72nd in 1973, 41st in 1974, 42nd in 1975, 56th in 1976, 49th in 1978 and 57th in 1979.
+He won the intermediate sprints competition, known then as Points Chaud ('hot spot sprints') in the Tours of 1973 and 1975. He won two stages: the 19th in 1978 from Lausanne to Belfort, and the 14th in 1979 from Belfort to Evian-les-Bains. In 1974 he won Paris–Brussels and two years later Paris–Roubaix.
+In January 1982, two weeks after an ambitious-looking Demeyer was presented as the new signing of Splendor, he died of a heart attack. Various causes were subsequently mentioned, including suicide.
+</doc>
+
+<doc id="28625509" title="Stefan Denifl">
+Stefan Denifl (born 22 September 1987) is an Austrian former professional cyclist, who rode professionally between 2006 and 2018 for seven different professional teams. In 2019, Denifl confessed to doping during a five-year period in his career, and was given a four-year ban from the sport; as a consequence of this, Denifl received a two-year sentence in 2021 for serious commercial fraud.
+</doc>
+
+<doc id="1944298" title="Danilo Di Luca">
+Danilo Di Luca (born 2 January 1976) is a former Italian professional road racing cyclist, best known for winning the 2007 Giro d'Italia, but also for several positive doping tests, the last of which resulting in a lifetime ban from the sport.
+Di Luca is also one of six riders to have won each of the three Ardennes classics; he won the Amstel Gold Race and La Flèche Wallonne in 2005, and Liège–Bastogne–Liège in 2007. During his career, Di Luca rode for the Riso Scotti, Cantina Tollo–Acqua & Sapone, Saeco, Liquigas, LPR Brakes–Farnese Vini, Team Katusha, Acqua & Sapone and Vini Fantini–Selle Italia squads.
+Di Luca's career was also dogged by numerous infractions, involving three suspensions in relation to doping. In 2007, Di Luca was suspended for three months towards the end of the season, for visiting previously banned doctor Carlo Santuccione, which later escalated into the Oil for Drugs case. In 2009, at the Giro d'Italia, Di Luca tested positive on two occasions for CERA, and was given a backdated – to July 2009 – two-year ban in February 2010, which was later reduced to nine months. His third positive test came just before the 2013 Giro d'Italia, when he tested positive for erythropoietin (EPO) in an out-of-competition test. Di Luca expressed surprise at the test results, but he was given a lifetime ban in December 2013.
+Danilo Di Luca wrote his autobiography Bestie da Vittoria, which means "Beasts for victories". Such book is also a denunciation of the use of doping substances among cyclists and the use of anti-doping controls as a way to manipulate competition results.
+</doc>
+
+<doc id="6328637" title="Ludo Dierckxsens">
+Ludo Dierckxsens (born 14 October 1964) is a Belgian former racing cyclist. He is best known for winning the 11th stage of the 1999 Tour de France, while competing for Lampre–Daikin.
+</doc>
+
+<doc id="13837665" title="Stefan van Dijk">
+Stefan van Dijk (born 22 January 1976 in Honselersdijk, Netherlands) is a former professional road racing cyclist.
+In November 2013, van Dijk announced his retirement from professional cycling, after fourteen seasons. Later that month, it emerged that van Dijk had illegally used ozone therapy during the 2011 season, and was given an eight-year ban as well as a €10,000 fine.
+</doc>
+
+<doc id="16668981" title="Alex Diniz">
+Alex Correia Diniz (born 20 October 1985) is a Brazilian professional racing cyclist, who is currently suspended from the sport. He was born in Recife, and his specialties are climbing and endurance races.
+He served a two-year drugs ban between 2009 and 2011, after testing positive for erythropoietin (EPO) and his 2009 results were cancelled. In 2013, racing for Funvic Brasilinvest–São José dos Campos, Diniz won the queen stage of the Tour de San Luis. He soloed to victory after attacking at the foot of the final climb, the Mirador del Potrero, taking the leader's jersey in the process.
+In 2017, Diniz was given an eight-year ban for anomalies in his biological passport.
+</doc>
+
+<doc id="77653655" title="Ilkhan Dostiyev">
+Ilkhan Dostiyev (born 8 July 2002 in Chimkent, Kazakhstan) is a Kazakh cyclist, who last rode for UCI Continental team XDS Astana Development Team.
+</doc>
+
+<doc id="38407939" title="Johannes Draaijer">
+Johannes Draaijer (8 March 1963 – 27 February 1990) was a Dutch cyclist. He won two stages of the Peace Race in 1987 and one stage of the Vuelta a Murcia in 1989. The same year he finished 130th in the Tour de France and was part of the team that won the race.
+On 27 February 1990, Draaijer died in his sleep of heart block, just a few days after a race. It is widely presumed, though not proven, that his death was caused by the use of the performance-enhancing drug erythropoietin (EPO). The autopsy did not specify the cause of death, but Draaijer's wife later told the German news magazine, Der Spiegel, that her husband became sick after using EPO.  This was the second death of a Dutch cyclist that was attributed to EPO, after demise of Bert Oosterbosch in 1989.
+</doc>
+
+<doc id="7338866" title="Paul Duboc">
+Paul Duboc (2 April 1884 – 19 August 1941) was a French professional road bicycle racer from 1907 through 1927.  Despite winning 5 career stages in the Tour de France, he may be most remembered for being disqualified at the 1919 Tour de France for borrowing a car to go and repair his pedal axle.
+In 1911, Duboc was close to winning the Tour de France, when he became ill after drinking from a poisoned bottle given to him. His fans were blaming the classification leader Gustave Garrigou, and the Tour organizers advised Garrigou to ride under disguise. Duboc would end the 1911 Tour de France in second place, his best result.
+</doc>
+
